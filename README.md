@@ -4,7 +4,7 @@ I'm Stefan, a T-shaped web developer currently freelancing & learning Linux to i
 
 Started as a designer for business cards and stamps in CorelDraw, naturally progressed to front-end and recently to full-stack with specialty in web applications.
 
-Fan of simple and clean code and helping others.
+Fan of simple, clean code and helping others.
 
 ```
 { 
