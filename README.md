@@ -2,7 +2,9 @@
 
 I'm Stefan, a T-shaped web developer currently freelancing & learning Linux to improve my DevSecOps skills.
 
-Started as a designer for business cards and stamps in CorelDraw, naturally progressed to front-end and recently to full-stack with specialty in web applications.
+Growing up knowing sign language, I came to realize I'm most useful understanding others and translating needs into practical solutions.
+
+My journey started as a designer for business cards and stamps in CorelDraw, naturally progressed to front-end and recently to full-stack with specialty in web applications.
 
 Fan of simple, clean code and helping others.
 
@@ -13,7 +15,7 @@ Fan of simple, clean code and helping others.
 }
 ```
 
-Experimented with Python, C, Three.js, WebGL, Bun, Playwright, Next.js and Astro
+Past experience with Figma, Node.js, Express, Python, C, C++, Three.js, WebGL, Bun, Playwright, Next.js and Astro
 
 *finally, I can center a div*
 
