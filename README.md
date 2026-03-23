@@ -13,7 +13,9 @@ Fan of simple, clean code and helping others.
 }
 ```
 
-Experimented with Python, C, Bun, Playwright, Next.js and Astro
+Experimented with Python, C, Three.js, WebGL, Bun, Playwright, Next.js and Astro
+
+*finally, I can center a div*
 
 Feel free to reach me at mail@stefanantohi.com
 
