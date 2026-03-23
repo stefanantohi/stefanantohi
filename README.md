@@ -4,7 +4,7 @@ I'm Stefan, a T-shaped web developer currently freelancing & learning Linux to i
 
 Growing up knowing sign language, I came to realize I'm most useful understanding others and translating needs into practical solutions.
 
-My journey started as a designer for business cards and stamps in CorelDraw, naturally progressed to front-end and recently to full-stack with specialty in web applications.
+My journey started as a designer for business cards and stamps, naturally progressed to front-end and recently to full-stack with specialty in web applications.
 
 Fan of simple, clean code and helping others.
 
