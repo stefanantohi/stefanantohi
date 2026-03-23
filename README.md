@@ -8,8 +8,8 @@ Fan of simple, clean code and helping others.
 
 ```
 { 
-  languages: HTML, CSS, JS, TS,
-  technologies: WP, React, PostgreSQL, MySQL, Jest, Vite, Docker 
+  languages: [HTML, CSS, JS, TS],
+  technologies: [WP, React, PostgreSQL, MySQL, Jest, Vite, Docker] 
 }
 ```
 
