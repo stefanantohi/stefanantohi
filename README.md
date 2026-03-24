@@ -15,7 +15,7 @@ Fan of simple, clean code and helping others.
 }
 ```
 
-Past experience with Figma, Node.js, Express, Python, C, C++, Three.js, WebGL, Bun, Playwright, Next.js and Astro
+Past experience with Figma, PHP, Node.js, Express, Python, C, C++, Three.js, WebGL, Bun, Playwright, Next.js and Astro
 
 *finally, I can center a div*
 
