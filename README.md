@@ -1,6 +1,6 @@
 ## hello friend
 
-I'm Stefan, a T-shaped web developer currently freelancing & learning Linux to improve my DevSecOps skills.
+I'm Stefan, a T-shaped web developer currently freelancing & learning Linux to improve in the DevSecOps journey.
 
 Growing up knowing sign language, I came to realize I'm most useful understanding others and translating needs into practical solutions.
 
