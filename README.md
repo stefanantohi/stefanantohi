@@ -1,4 +1,4 @@
-## hello friend
+## hello friend!
 
 I'm Stefan, a T-shaped web developer currently freelancing & learning Linux to improve in the DevSecOps journey.
 
