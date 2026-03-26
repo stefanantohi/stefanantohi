@@ -21,5 +21,5 @@ Past experience with Figma, PHP, Node.js, Express, Python, C, C++, Three.js, Web
 
 Feel free to reach me at mail@stefanantohi.com
 
-![happy-croc](https://popsci.com/wp-content/uploads/2026/03/Morris-Herkso_Feeling-cute-might-delete-later.jpg "Credit: Morris Herkso - Comedy Wildlife Photography")
+![Morris-Hersko-happy-crocodile](./images/Morris-Hersko-croc.webp "Credits: Morris Hersko - Comedy Wildlife Photography")
 
