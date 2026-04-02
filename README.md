@@ -4,5 +4,6 @@ I'm Stefan, a T-shaped web developer currently freelancing & learning Linux to i
 
 *I can center a div*
 
-![Morris-Hersko-happy-crocodile](./images/Morris-Hersko-croc.webp "Credits: Morris Hersko - Comedy Wildlife Photography")
+<img src="./images/Morris-Hersko-croc.webp "Credits: Morris Hersko - Comedy Wildlife Photography" alt="Morris-Hersko-happy-crocodile" height="300">
+
 
