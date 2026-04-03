@@ -1,6 +1,6 @@
 ## hello friend!
 
-I'm Stefan, a T-shaped web developer currently freelancing & learning Linux to improve in the DevSecOps journey.
+T-shaped web developer currently freelancing & learning Linux to improve in the DevSecOps journey
 
 *I can center a div*
 
